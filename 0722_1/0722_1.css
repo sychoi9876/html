@@ -1,0 +1,16 @@
+body {background-color: seashell;}
+
+.userid {
+    color: green;
+    background-color: lightblue;
+
+}
+
+.userpw {
+    color: green;
+    background-color: lightyellow;
+}
+
+.check__pw {
+    color: green
+}
